@@ -1,0 +1,1 @@
+document.getElementById("footer").innerHTML = "<footer><div class='container-fluid'><div class='row break-point'><div class='col-md-12 col-sm-12'><div style='text-align:center;'><a href='#'><span class='hlogop'>Ar</span><span class='hlogoq' style='color: white;'>Arrow<span style='color: red;'>.</span>com</span></a></div></div></div><br><br><br></footer>";
