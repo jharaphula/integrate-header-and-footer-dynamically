@@ -10,4 +10,4 @@ Create JS files like header.js and footer.js. Store your header file code to hea
 
 Once your header and footer files are ready. In HTML define a div with id="header" or id="footer" then embed the line of js script we did in this app.
 
-Developed by https://jharaphula.com/taurus-love-horoscope-compatibility/
+Developed by https://jharaphula.com/jquery-string-functions/
